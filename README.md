@@ -18,7 +18,7 @@ A userscript that enhances your Google search experience by adding a customizabl
 
 You can download the script from:
 
-* [GreasyFork](https://greasyfork.org/en/scripts/reddit-search-tab-on-google)
+* [GreasyFork](https://greasyfork.org/en/scripts/504535-reddit-search-tab-on-google)
 
 **Chrome users:** You'll need a script manager extension like [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) or [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/). Then, go to the download link above and click on 'Install'. Finally, click on 'install' in the new window that will open.
 
