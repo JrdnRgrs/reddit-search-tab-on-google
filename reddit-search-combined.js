@@ -2,6 +2,7 @@
 // @name         Reddit Search Tab on Google (Customizable)
 // @version      1.0
 // @description  Adds a Reddit tab on Google search pages with various settings options for site and keyword search.
+// @namespace    https://github.com/JrdnRgrs/reddit-search-tab-on-google
 // @author       Jordan Rogers
 // @match        *://*.google.com/search*
 // @icon         https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png
